@@ -1,0 +1,15 @@
+{
+  "name": "antti",
+  "version": "0.0.0",
+  "description": "Antti on tiedostojen jakopalvelu",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaska",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "0.17.1",
+    "express": "4.14.1"
+  }
+}
